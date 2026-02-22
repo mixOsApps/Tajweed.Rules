@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/mixOsApps/client-database-releases/main/client-database_v4.9.2.apk",
+  "releaseNotes": "Fixed Order Fragment Pagination and FAB Button in alignment",
+  "forceUpdate": true
+}
