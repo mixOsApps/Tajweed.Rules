@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "2.3",
-  "apkUrl": "https://raw.githubusercontent.com/mixOsApps/Tajweed.Rules/refs/heads/main/Learn.Tajweed.Rules_v.2.3.apk",
-  "releaseNotes": "Added Audio Support, In App update, Dark Theme and Zoom Capabilities",
+  "versionCode": 4,
+  "versionName": "2.4",
+  "apkUrl": "https://raw.githubusercontent.com/mixOsApps/Tajweed.Rules/refs/heads/main/Learn.Tajweed.Rules_v.2.4.apk",
+  "releaseNotes": "Bugs Fixed",
   "forceUpdate": true
 }
