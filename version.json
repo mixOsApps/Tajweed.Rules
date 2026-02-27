@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "3.0",
-  "apkUrl": "https://raw.githubusercontent.com/mixOsApps/Tajweed.Rules/refs/heads/main/Learn.Tajweed.Rules_v.3.0.apk",
-  "releaseNotes": "Major App Update \n\n🆕 New Feature: Surahs Correction \n 1. Enable Students to take note on there Surah correction Lessons. InshaAllah",
+  "versionCode": 7,
+  "versionName": "4.0",
+  "apkUrl": "https://github.com/mixOsApps/Tajweed.Rules/releases/download/4.0/LearnTajweedRules_v4.0.apk",
+  "releaseNotes": "Full App Feature Update. /n/n 1. Tajweed Rules /n 2. Surahs Correction /n 3.Qaida Nuraniyah /n InshaAllah help me check the App",
   "forceUpdate": true
 }
